@@ -1,0 +1,40 @@
+
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+.container{
+    background-color: white;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px;
+    width:25%;
+}
+h1{
+    font-size: 35px;
+}
+.khung{
+    background-color: gray;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 40vh;  
+}
+.text{
+    color: aliceblue;
+    font-size: 80px;
+    text-align: center;
+}
+.button{
+    color: white;
+    background-color: rgba(9, 192, 212, 0.649);
+    border: none;
+    border-radius: 3px;
+    width: 150px;
+    height: 50px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
